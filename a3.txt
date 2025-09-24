@@ -1,2 +1,7 @@
 hey
+<<<<<<< HEAD
 bbye
+=======
+bye
+>>>>>>> master
+<Resolved>
