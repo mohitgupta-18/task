@@ -4,4 +4,9 @@ bye
 =======
 hi
 >>>>>>> master
+<<<<<<< HEAD
 <Resolved>
+=======
+<resolved when merged again>
+>>>>>>> feature-1
+<Resolved when meged with feature-1a>
